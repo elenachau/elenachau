@@ -1,4 +1,4 @@
-### welcome to my page, I'm Elena Chau
+### Welcome to my Page, I'm Elena Chau
 
 <h3> Skills and Experience </h3>
   <li>Python</li>
