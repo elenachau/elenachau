@@ -1,4 +1,7 @@
-### Hi there 👋
+### welcome to my page, I'm Elena Chau
+
+##Skills and Experience
+* Python
 
 <hr/>
 
