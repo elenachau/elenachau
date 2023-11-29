@@ -1,7 +1,7 @@
 ### welcome to my page, I'm Elena Chau
 
-##Skills and Experience
-* Python
+<h3> Skills and Experience </h3>
+  <li>Python</li>
 
 <hr/>
 
