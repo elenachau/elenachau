@@ -3,7 +3,7 @@
 ---
 
 ## SOCIALS
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elena-x-chau/">
+<a href="https://www.linkedin.com/in/elena-x-chau/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
 </a>
 
